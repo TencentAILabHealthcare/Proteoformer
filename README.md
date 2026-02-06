@@ -1,5 +1,10 @@
 # Proteoformer
 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%3E%3D1.9.0-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Python](https://img.shields.io/badge/Python-%3E%3D3.10-3776AB?logo=python&logoColor=white)](https://python.org/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 ## Overview
 **Proteoforms**—the diverse molecular forms of proteins arising from genetic variations, alternative splicing, and post-translational modifications (PTMs)—are the true functional units of the proteome. Unlike traditional protein models that focus solely on canonical sequences, **Proteoformer** is the first foundation model specifically designed to understand and represent the full complexity of proteoform diversity.
 
