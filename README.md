@@ -1,9 +1,9 @@
-# π-Proteoformer
+# Proteoformer
 
 A foundation model for comprehensive proteoform modeling and representation.
 
 ## Overview
-**Proteoforms**—the diverse molecular forms of proteins arising from genetic variations, alternative splicing, and post-translational modifications (PTMs)—are the true functional units of the proteome. Unlike traditional protein models that focus solely on canonical sequences, **π-Proteoformer** is the first foundation model specifically designed to understand and represent the full complexity of proteoform diversity.
+**Proteoforms**—the diverse molecular forms of proteins arising from genetic variations, alternative splicing, and post-translational modifications (PTMs)—are the true functional units of the proteome. Unlike traditional protein models that focus solely on canonical sequences, **Proteoformer** is the first foundation model specifically designed to understand and represent the full complexity of proteoform diversity.
 
 ## Installation
 
@@ -297,22 +297,11 @@ Common PTM tokens:
 
 For detailed vocabulary documentation, see [resource/README.md](resource/README.md).
 
-## Citation
-
-If you use π-Proteoformer in your research, please cite:
-
-```bibtex
-@article{pi-proteoformer,
-  title={π-Proteoformer: A Foundation Model for Proteoform Representation and Prediction},
-  author={},
-  journal={},
-  year={2025}
-}
-```
-
 ## License
 
-[License information]
+This project is licensed under the Apache License 2.0.
+
+Proteoformer is developed and maintained by **Tencent AI for Life Sciences Lab**. Copyright © 2026 Tencent AI for Life Sciences Lab. All rights reserved.
 
 ## Contact
 
