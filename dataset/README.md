@@ -50,8 +50,8 @@ This corpus integrates proteoform data from three major sources:
 The UniRef50 database used for Stage 1 masked language model pretraining can be downloaded from:
 - **UniRef50**: https://www.uniprot.org/uniref
 
-### Stage 2: π-Proteoformer Corpus
-The π-Proteoformer Corpus used for Stage 2 proteoform-aware pretraining can be downloaded from:
+### Stage 2: Proteoformer Corpus
+The Proteoformer Corpus used for Stage 2 proteoform-aware pretraining can be downloaded from:
 
 *Download link will coming soon.*
 
