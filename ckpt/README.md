@@ -4,9 +4,9 @@ This directory contains pre-trained and fine-tuned model checkpoints for Proteof
 
 ## Pre-trained Model
 
-### checkpoint-197000 (Base Model)
+### proteoformer-base
 
-The base Proteoformer model pre-trained on large-scale protein sequences with post-translational modification (PTM) annotations.
+The base Proteoformer model pre-trained on large-scale protein sequences and proteoform corpus. This checkpoint (checkpoint-197000) serves as the foundation for all downstream fine-tuning tasks.
 
 
 ## Fine-tuned Checkpoints
