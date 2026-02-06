@@ -1,7 +1,5 @@
 # Proteoformer
 
-A foundation model for comprehensive proteoform modeling and representation.
-
 ## Overview
 **Proteoforms**—the diverse molecular forms of proteins arising from genetic variations, alternative splicing, and post-translational modifications (PTMs)—are the true functional units of the proteome. Unlike traditional protein models that focus solely on canonical sequences, **Proteoformer** is the first foundation model specifically designed to understand and represent the full complexity of proteoform diversity.
 
